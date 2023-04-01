@@ -1,0 +1,17 @@
+@font-face {
+    font-family: marvel;
+    src: url(src\assets\fuentes\Maarvel.otf) format('truetype');
+}
+
+.Marvel{
+  font-family: Marvel;
+}
+
+@font-face {
+    font-family: marvel2;
+    src: url(src\assets\fuentes\Marvel2.otf) format('truetype');
+}
+
+.Marvel2{
+  font-family: Marvel2;
+}
